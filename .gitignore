@@ -1,0 +1,12 @@
+
+
+.idea
+src/client/bower_components
+src/client/node_modules
+
+bin
+lib
+include
+
+
+src/server/common/local_config.py
