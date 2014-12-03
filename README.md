@@ -8,10 +8,10 @@ http://en.wikipedia.org/wiki/Tiamat
 
 Requirements
 ------------
-# Python
-# Access to a mongodb database
-# nodejs installed for client side unit testing
-# bower install for javascript package management
+* Python
+* Access to a mongodb database
+* nodejs installed for client side unit testing
+* bower install for javascript package management
 
 
 Installation
