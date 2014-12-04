@@ -3,8 +3,7 @@ Tiamat - Open Source, Distributed Hardware Testing Suite
 
 Disclaimer - This software is now under heavy development not yet ready for production use
 
-The project is named after Tiamat (from wikipedia) is a chaos monster, a primordial goddess
-http://en.wikipedia.org/wiki/Tiamat
+The project is named after the goddess Tiamat http://en.wikipedia.org/wiki/Tiamat
 
 Requirements
 ------------
